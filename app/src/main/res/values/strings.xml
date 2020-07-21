@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weight management</string>
+    <string name="date">日付</string>
+    <string name="weight">体重</string>
+    <string name="hint_weight">体重を入力してください</string>
+    <string name="body_fat_percentage">体脂肪率</string>
+    <string name="hint_body_fat_percentage">小数点以下は省いてください</string>
+    <string name="bmi">BMI</string>
+    <string name="hint_bmi">BMIを入れてください(任意)</string>
+    <string name="button_ok">OK</string>
+    <string name="hint_date">ボタンを押してください</string>
+    <string name="message_hint">体重,日付は必ず入れてください</string>
+    <string name="message_finish">登録完了しました</string>
+</resources>
